@@ -1,9 +1,9 @@
 <h1 align="center">Welcome! I'm Zain Javed</h1>
-<h3 align="center">A passionate software engineer.</h3>
+<h3 align="center">I code in day and think about bugs at night.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zainjaved96&label=Profile%20views&color=0e75b6&style=flat" alt="zainjaved96" /> </p>
 
-- 🌱 I’m currently learning **Backend Development with Python.**
+- 🌱 I’m currently learning **to understand the why behind the Tech.**
 
 - 📫 How to reach me **zainjaved965@gmail.com**
 
